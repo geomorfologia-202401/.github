@@ -5,3 +5,5 @@
 - [Programa](programa-geomorfologia.pdf)
 
 - [Asignaciones prácticas](https://github.com/geomorfologia-202401/practicas)
+
+- [Asignaciones de manuscrito](https://github.com/geomorfologia-202401/manuscrito)
