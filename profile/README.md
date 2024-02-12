@@ -4,3 +4,4 @@
 
 - [Programa](programa-geomorfologia.pdf)
 
+- [Asignaciones prácticas](https://github.com/geomorfologia-202401/practicas)
